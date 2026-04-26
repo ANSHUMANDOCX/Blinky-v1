@@ -12,9 +12,9 @@ Its a simple project made without any microcontrollers and just complete crude e
 It was a fun project to make learned quite a bit building the circuit.
 
 ## PCB and Schematic 
-<img width="910" height="824" alt="image" src="https://github.com/user-attachments/assets/78a012d0-b9ea-4e9e-8b4b-c493f5815f8a" />
-<img width="1247" height="689" alt="image" src="https://github.com/user-attachments/assets/f6ce0a16-2e5f-4736-819c-c6ef6a556c8d" />
-<img width="999" height="886" alt="image" src="https://github.com/user-attachments/assets/9ca13c15-e841-482e-a8ba-7480959ee756" />
+<img width="999" height="886" alt="Screenshot 2026-04-24 232013" src="https://github.com/user-attachments/assets/e6e020e3-0fee-48f2-93af-b2cfc69c8765" />
+<img width="884" height="835" alt="Screenshot 2026-04-26 104630" src="https://github.com/user-attachments/assets/06df8e7f-240a-41ec-9f1c-69d33429e7e4" />
+<img width="1089" height="668" alt="Screenshot 2026-04-26 104639" src="https://github.com/user-attachments/assets/377296eb-2c21-4a20-a187-b2931ea93d52" />
 
 ## Parts List:
 These are the parts I used for making it:
